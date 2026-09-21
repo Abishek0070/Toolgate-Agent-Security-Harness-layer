@@ -1,5 +1,7 @@
 # ToolGate
 
+**https://pypi.org/project/toolgate-sdk/**
+
 **AI Agent Security & Authorization SDK**
 
 ToolGate is an authorization layer that sits between an AI agent and the
